@@ -104,6 +104,8 @@ body{
     margin-right: 1%;
     margin-left: 1%;
     margin-bottom: 1%;
+    background-color: #000000;
+    color: #FFF;
 }
 .buttonwraper{
     position: absolute;
@@ -135,6 +137,8 @@ body{
     text-size-adjust: 100%;
     font-size: 100%;
     width: 100%;
+    background-color: #000000;
+    color: #FFF;
 }
 .round-info{
     position: absolute;
@@ -158,6 +162,8 @@ body{
     text-align: center;
     font-size: 70%;
     width: 80%;
+    background-color: #000000;
+    color: #FFF;
 }
 /*ANCHOR Page that appers at start of the game where language is choosed*/
 .settings{                                              
