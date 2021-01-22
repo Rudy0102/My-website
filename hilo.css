@@ -132,6 +132,8 @@ body{
     right: 45%;
     font-size: 120%;
     width: 20%;
+    background-color: #000000;
+    color: #FFF;
 }
 .text{
     text-size-adjust: 100%;
